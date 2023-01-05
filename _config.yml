@@ -9,6 +9,8 @@ github_username: agorahub
 # Build settings
 timezone: Asia/Singapore
 theme: minima
+exclude:
+  - _posts/2022-06-18-INMEDIA-學生會解散後不獲校方續約-中大生拍紀錄片道別山城角樂.html
 paginate: 50
 plugins:
   - jekyll-feed
